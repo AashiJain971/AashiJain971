@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Aashi Jain</h1>
 <h3 align="center">
-B.Tech CSE (Artificial Intelligence) @ IGDTUW | Full-Stack Developer | AI & Systems Builder
+B.Tech CSE (Artificial Intelligence) @ IGDTUW | Full-Stack Developer | Software Developer | AI & Systems Builder
 </h3>
 
 <p align="center">
