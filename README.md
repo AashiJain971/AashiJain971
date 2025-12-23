@@ -19,7 +19,7 @@ B.Tech CSE (Artificial Intelligence) @ IGDTUW | Full-Stack Developer | AI & Syst
 ## 🚀 About Me
 
 - 🎓 **Computer Science (AI) undergraduate** at **Indira Gandhi Delhi Technical University for Women**
-- 💡 Experienced and passionate  about building **end-to-end products**, not just prototypes
+- 💡 Experienced and passionate about building **end-to-end products**, not just prototypes
 - 🔐 Strong interest in **systems, security, and intelligent automation**
 - 🧠 Solid foundations in **DSA, problem-solving, and system-level thinking**
 
@@ -47,19 +47,17 @@ I enjoy turning complex ideas into **clean, reliable, and practical solutions** 
 
 ### 💻 Technical Skills
 
-
-**Programming Languages** 
+**Programming Languages**  
 Python, C++, R, SQL, JavaScript, HTML, CSS
 
-**Technologies**
+**Technologies**  
 React, Next.js, Node.js, Tailwind CSS, Bootstrap CSS, PostgreSQL, MongoDB, SQLite, FastAPI, REST APIs, Streamlit, Uvicorn
 
-**CS Fundamentals**
+**CS Fundamentals**  
 DSA (C++), OOPS, DBMS
 
-**Others**
+**Others**  
 Machine Learning, Web Development, Generative AI, Data Analysis, Git/GitHub, Postman
-
 
 ---
 
@@ -85,8 +83,8 @@ Leadership • Time Management • Team Collaboration • Adaptability • Probl
   - Interactive dashboards and downloadable reports
 - Focused on **performance, reliability, and real-world usability**
 
-🔗 [View Demo](https://drive.google.com/file/d/1Z3sH4IUHZWZxjOOyJtAk6ljLgHZlgGgQ/view)  
-🔗 [GitHub Repository](https://github.com/AashiJain971/Blue_Guard)
+🔗 [Blue Guard – Project Demo](https://drive.google.com/file/d/1Z3sH4IUHZWZxjOOyJtAk6ljLgHZlgGgQ/view)  
+🔗 [Blue Guard – GitHub Repository](https://github.com/AashiJain971/Blue_Guard)
 
 ---
 
@@ -98,7 +96,7 @@ Leadership • Time Management • Team Collaboration • Adaptability • Probl
 - Persistent sessions, scoring, and analytics  
 **Tech:** Next.js, FastAPI, WebSockets, Groq, Supabase, Whisper, WebRTC VAD, Tailwind CSS
 
-🔗 https://codesage-5iht.onrender.com/
+🔗 [CodeSage – Live Platform](https://codesage-5iht.onrender.com/)
 
 ---
 
@@ -108,7 +106,7 @@ Leadership • Time Management • Team Collaboration • Adaptability • Probl
 - AI-assisted route optimization and conflict detection  
 **Tech:** Next.js, FastAPI, TypeScript, Supabase, CP-SAT, Tailwind CSS  
 
-🔗 https://speedline-frontend.onrender.com/
+🔗 [SpeedLine – Live Platform](https://speedline-frontend.onrender.com/)
 
 ---
 
@@ -138,7 +136,9 @@ Leadership • Time Management • Team Collaboration • Adaptability • Probl
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AashiJain971&theme=react-dark)
 
 ![](https://github-readme-stats.vercel.app/api?username=AashiJain971&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AashiJain971&theme=radical)
@@ -158,6 +158,12 @@ Leadership • Time Management • Team Collaboration • Adaptability • Probl
 <a href="mailto:aashij971@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Consistency beats motivation. Growth comes from showing up, learning every day, and never giving up — even when progress feels slow."</i> 🌱
 </p>
 
 <p align="center">
