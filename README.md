@@ -144,6 +144,10 @@ Leadership • Time Management • Team Collaboration • Adaptability • Probl
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AashiJain971&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AashiJain971&layout=compact&theme=radical)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AashiJain971/AashiJain971/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 ## 🤝 Let’s Connect
