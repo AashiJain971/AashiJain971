@@ -55,7 +55,7 @@ Python, C++, R, SQL, JavaScript, HTML, CSS
 React, Next.js, Node.js, Tailwind CSS, Bootstrap CSS, PostgreSQL, MongoDB, SQLite, FastAPI, REST APIs, Streamlit, Uvicorn
 
 **CS Fundamentals**  
-DSA (C++), OOPS, DBMS
+DSA (C++), OOPS, DBMS, OS
 
 **Others**  
 Machine Learning, Web Development, Generative AI, Data Analysis, Git/GitHub, Postman
@@ -113,7 +113,7 @@ Leadership • Time Management • Team Collaboration • Adaptability • Probl
 
 ## 🏆 Achievements
 
-- 🧠 Solved **400+ DSA problems** across competitive programming platforms:  
+- 🧠 Solved **500+ DSA problems** across competitive programming platforms:  
   [LeetCode](https://leetcode.com/u/AashiJain971/) •
   [CodeChef](https://www.codechef.com/users/aashijain_971) •
   [Codeforces](https://codeforces.com/profile/AashiJain) •
