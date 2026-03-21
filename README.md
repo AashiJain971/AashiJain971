@@ -55,7 +55,7 @@ Python, C++, R, SQL, JavaScript, HTML, CSS
 React, Next.js, Node.js, Tailwind CSS, Bootstrap CSS, PostgreSQL, MongoDB, SQLite, FastAPI, REST APIs, Streamlit, Uvicorn
 
 **CS Fundamentals**  
-DSA (C++), OOPS, DBMS, OS
+DSA (C++), OOPS, DBMS, OS, CN
 
 **Others**  
 Machine Learning, Web Development, Generative AI, Data Analysis, Git/GitHub, Postman
@@ -113,11 +113,12 @@ Leadership • Time Management • Team Collaboration • Adaptability • Probl
 
 ## 🏆 Achievements
 
-- 🧠 Solved **600+ DSA problems** across competitive programming platforms:  
+- 🧠 Solved **700+ DSA problems** across competitive programming platforms:  
   [LeetCode](https://leetcode.com/u/AashiJain971/) •
   [CodeChef](https://www.codechef.com/users/aashijain_971) •
   [Codeforces](https://codeforces.com/profile/AashiJain) •
   [Codolio](https://codolio.com/profile/aashijain971)
+- 🥇 **National Finalist at Blueprint 2026 , IIT Delhi** (1000+ startups).
 - 🚀 **Recognised as a Top 60 student founder** at the Delhi Startup Yuva Festival (organised by DTTE & TiE Delhi-NCR) among 750+ startups across Delhi.
 - 🥇 **Winner — Industrial Ideathon 2025**, organized by the **Department of Industries, GNCTD & DSIIDC**, in partnership with **NSUT**
 
