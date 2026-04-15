@@ -114,9 +114,7 @@ Leadership • Time Management • Team Collaboration • Adaptability • Probl
 ## 🏆 Achievements
 
 - 🧠 Solved **800+ DSA problems** across competitive programming platforms:  
-  [LeetCode](https://leetcode.com/u/AashiJain971/) •
-  [CodeChef](https://www.codechef.com/users/aashijain_971) •
-  [Codeforces](https://codeforces.com/profile/AashiJain) •
+  [LeetCode](https://leetcode.com/u/AashiJain971/) 
   [Codolio](https://codolio.com/profile/aashijain971)
 - 🥇 **National Finalist at Blueprint 2026 , IIT Delhi** (1000+ startups).
 - 🚀 **Recognised as a Top 60 student founder** at the Delhi Startup Yuva Festival (organised by DTTE & TiE Delhi-NCR) among 750+ startups across Delhi.
