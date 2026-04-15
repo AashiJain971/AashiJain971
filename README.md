@@ -113,7 +113,7 @@ Leadership • Time Management • Team Collaboration • Adaptability • Probl
 
 ## 🏆 Achievements
 
-- 🧠 Solved **700+ DSA problems** across competitive programming platforms:  
+- 🧠 Solved **800+ DSA problems** across competitive programming platforms:  
   [LeetCode](https://leetcode.com/u/AashiJain971/) •
   [CodeChef](https://www.codechef.com/users/aashijain_971) •
   [Codeforces](https://codeforces.com/profile/AashiJain) •
