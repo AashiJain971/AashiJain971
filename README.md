@@ -69,6 +69,8 @@ Leadership • Time Management • Team Collaboration • Adaptability • Probl
 ---
 
 ## 💼 Experience
+### **AI/ML Research Intern — NSUT**  
+**June 2026 – Present**
 
 ### **Digital Forensics Intern — IGDTUW**  
 *ISEA Phase-III (Ministry of Electronics & IT, Government of India)*  
