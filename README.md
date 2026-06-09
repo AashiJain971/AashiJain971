@@ -115,7 +115,7 @@ Leadership • Time Management • Team Collaboration • Adaptability • Probl
 
 ## 🏆 Achievements
 
-- 🧠 Solved **900+ DSA problems** across competitive programming platforms:  
+- 🧠 Solved **1000+ DSA problems** across competitive programming platforms:  
   [LeetCode](https://leetcode.com/u/AashiJain971/) 
   [Codolio](https://codolio.com/profile/aashijain971)
 - 🥇 **National Finalist at Blueprint 2026 , IIT Delhi** (1000+ startups).
