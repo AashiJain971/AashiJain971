@@ -57,9 +57,6 @@ React, Next.js, Node.js, Tailwind CSS, Bootstrap CSS, PostgreSQL, MongoDB, SQLit
 **CS Fundamentals**  
 DSA (C++), OOPS, DBMS, OS, CN
 
-**Others**  
-Machine Learning, Web Development, Generative AI, Data Analysis, Git/GitHub, Postman
-
 ---
 
 ### 🤝 Soft Skills
