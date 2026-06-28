@@ -115,7 +115,7 @@ Leadership • Time Management • Team Collaboration • Adaptability • Probl
 - 🧠 Solved **1000+ DSA problems** across competitive programming platforms:  
   [LeetCode](https://leetcode.com/u/AashiJain971/) 
   [Codolio](https://codolio.com/profile/aashijain971)
--  🚀 **Selected for GDC I-NITIATE 2026 at IIT Madras**, a selective deep-tech entrepreneurship program.
+-  🚀 **Selected for GDC I-NITIATE 2026 bootcamp at IIT Madras**.
 - 🥇 **National Finalist at Blueprint 2026 , IIT Delhi** (1000+ startups).
 - 🚀 **Recognised as a Top 60 student founder** at the Delhi Startup Yuva Festival (organised by DTTE & TiE Delhi-NCR) among 750+ startups across Delhi.
 - 🥇 **Winner — Industrial Ideathon 2025**, organized by the **Department of Industries, GNCTD & DSIIDC**, in partnership with **NSUT**
