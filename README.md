@@ -112,27 +112,32 @@ Leadership • Time Management • Team Collaboration • Adaptability • Probl
 
 ## 🏆 Achievements
 
-- 🧠 Solved **1000+ DSA problems** across competitive programming platforms:  
-  [LeetCode](https://leetcode.com/u/AashiJain971/) 
-  [Codolio](https://codolio.com/profile/aashijain971)
--  🚀 **Selected for GDC I-NITIATE 2026 bootcamp at IIT Madras**.
-- 🥇 **National Finalist at Blueprint 2026 , IIT Delhi** (1000+ startups).
-- 🚀 **Recognised as a Top 60 student founder** at the Delhi Startup Yuva Festival (organised by DTTE & TiE Delhi-NCR) among 750+ startups across Delhi.
-- 🥇 **Winner — Industrial Ideathon 2025**, organized by the **Department of Industries, GNCTD & DSIIDC**, in partnership with **NSUT**
+- 🧠 Solved **1000+ DSA problems**, strengthening problem-solving and algorithmic skills.  
+  [LeetCode](https://leetcode.com/u/AashiJain971/) • [Codolio](https://codolio.com/profile/aashijain971)
 
-- 🚀 **Top 20** in **Innov8 3.0 — AI & Innovation Challenge** *(Eightfold.ai & IIT Delhi)*
+- 🚀 **Selected for GDC I-NITIATE 2026 bootcamp at IIT Madras** as a **team lead**.
 
-- 🏅 **Top 10** in **Becon 2025, IIT Delhi**, among **1500+ startups**
+- 🥇 **National Finalist at Blueprint 2026, IIT Delhi** among **1000+ teams**.
 
-- 🌆 **Top 148** in **Smart Delhi Ideathon 2025**, with **Top 30 in track** among **1000+ teams**
+- 🚀 **Recognised as a Top 60 student founder** at the **Delhi Startup Yuva Festival 2026**, organised by **DTTE & TiE Delhi-NCR**, among **750+ startups across Delhi**; received a **₹1 lakh prize from Delhi Government dignitaries**.
 
-- 🦈 **2nd Position — SHARK TANKS IGDTUW**
+- 🥇 **Led team NextGen_Coders to win Industrial Ideathon 2025**, organised by the **Department of Industries, GNCTD & DSIIDC** in partnership with **NSUT**; secured a **₹5 lakh prize awarded by Delhi CM Smt. Rekha Gupta**.
 
-- 🎓 **Felicitated by Indira Gandhi Delhi Technical University for Women** for outstanding achievements throughout the academic year
+- 🚀 Secured **Top 20** in **Innov8 3.0 — AI & Innovation Challenge** by **Eightfold.ai & IIT Delhi**.
 
-- 🎯 **JEE Advanced 2024 qualified student**
+- 🏅 Secured **Top 10** in **Blueprint 2025, IIT Delhi** among **1500+ teams**.
+
+- 🌆 Secured **Top 148** in **Smart Delhi Ideathon 2025** among **1000+ teams**, including **Top 30 in track**.
+
+- 🦈 Secured **2nd position** in **SHARK TANKS IGDTUW 2025**.
+
+- 🎓 **Felicitated by IGDTUW** for yearly achievements in hackathons and innovation programs.
+
+- 🎯 **JEE Advanced 2024 qualified student**.
 
 🔗 **[View All Certificates](https://drive.google.com/drive/u/0/folders/1qYchNaNEaVh6BV5sET63VANSEKuZY9tJ)**
+
+
 
 ---
 
