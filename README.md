@@ -112,7 +112,7 @@ Leadership • Time Management • Team Collaboration • Adaptability • Probl
 
 ## 🏆 Achievements
 
-- 🧠 Solved **1000+ DSA problems**, strengthening problem-solving and algorithmic skills.  
+- 🧠 Solved **1100+ DSA problems**, strengthening problem-solving and algorithmic skills.  
   [LeetCode](https://leetcode.com/u/AashiJain971/) • [Codolio](https://codolio.com/profile/aashijain971)
 
 - 🚀 **Selected for GDC I-NITIATE 2026 bootcamp at IIT Madras** as a **team lead**.
