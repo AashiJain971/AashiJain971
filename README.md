@@ -52,7 +52,7 @@ I enjoy turning complex ideas into **clean, reliable, and practical solutions** 
 Python, C++, R, SQL, JavaScript, HTML, CSS
 
 **Technologies**  
-React, Next.js, Node.js, Tailwind CSS, Bootstrap CSS, PostgreSQL, MongoDB, SQLite, FastAPI, REST APIs, Streamlit, Uvicorn
+React, Next.js, Node.js, Tailwind CSS, Bootstrap CSS, PostgreSQL, MongoDB, SQLite, FastAPI, REST APIs, Streamlit, Uvicorn, Machine Learning
 
 **CS Fundamentals**  
 DSA (C++), OOPS, DBMS, OS, CN
